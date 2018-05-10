@@ -30,3 +30,4 @@ function destructivelyRemoveElementFromEndOfArray(array) {
   array.pop();
   return a;
 }
+addElementToEndOfArray(chocolateBars, "Twix");
