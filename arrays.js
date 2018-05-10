@@ -10,8 +10,8 @@ function addElementToEndOfArray(array, element) {
   var newArray = [...array, element];
   return newArray;
 }
-function destructivelyAddElementToEndOfArray(a, b) {
-  a.push(b);
+function destructivelyAddElementToEndOfArray(array, element) {
+  array.push(element);
   return a;
 }
 function accessElementInArray(a, b) {
