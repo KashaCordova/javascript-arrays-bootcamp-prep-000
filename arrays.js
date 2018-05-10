@@ -31,3 +31,4 @@ function destructivelyRemoveElementFromEndOfArray(array) {
   return a;
 }
 addElementToEndOfArray(chocolateBars, "Twix");
+console.log("Hey");
