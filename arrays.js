@@ -30,5 +30,4 @@ function destructivelyRemoveElementFromEndOfArray(array) {
   array.pop();
   return a;
 }
-addElementToEndOfArray(chocolateBars, "Twix");
-console.log("Hey");
+addElementToBeginningOfArray(chocolateBars, "Twix");
