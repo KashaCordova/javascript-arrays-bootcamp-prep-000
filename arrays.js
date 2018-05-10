@@ -28,6 +28,6 @@ return array;
 }
 function destructivelyRemoveElementFromEndOfArray(array) {
   array.pop();
-  return a;
+  return array;
 }
 addElementToBeginningOfArray(chocolateBars, "Twix");
